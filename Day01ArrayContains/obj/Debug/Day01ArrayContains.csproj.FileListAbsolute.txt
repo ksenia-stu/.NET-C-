@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\bin\Debug\Day01ArrayContains.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\bin\Debug\Day01ArrayContains.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\bin\Debug\Day01ArrayContains.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\obj\Debug\Day01ArrayContains.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\obj\Debug\Day01ArrayContains.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\obj\Debug\Day01ArrayContains.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01ArrayContains\obj\Debug\Day01ArrayContains.pdb
