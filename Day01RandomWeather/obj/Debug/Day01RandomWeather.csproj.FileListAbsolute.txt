@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\bin\Debug\Day01RandomWeather.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\bin\Debug\Day01RandomWeather.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\bin\Debug\Day01RandomWeather.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\obj\Debug\Day01RandomWeather.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\obj\Debug\Day01RandomWeather.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\obj\Debug\Day01RandomWeather.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01RandomWeather\obj\Debug\Day01RandomWeather.pdb
