@@ -1,0 +1,47 @@
+﻿<Window x:Class="CatsDb.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CatsDb"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="360.144" Width="856.204">
+    <Grid>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="28,49,0,0" VerticalAlignment="Top"/>
+        <Slider Name="sliderAge" HorizontalAlignment="Left" Margin="94,92,0,0" VerticalAlignment="Top" Width="120" Maximum="20" Value="10" IsSnapToTickEnabled="True"/>
+        <TextBox Name="tbName" HorizontalAlignment="Left" Height="23" Margin="77,53,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="133"/>
+        <Label Content="Age:" HorizontalAlignment="Left" Margin="28,84,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding ElementName =sliderAge, Path=Value, UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Left" Margin="71,84,0,0" VerticalAlignment="Top"/>
+        <Button Click="btAdd_Click" Name="btAdd" Content="Add" HorizontalAlignment="Left" Margin="77,149,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="UpdateButtonClicked" Content="Update" HorizontalAlignment="Left" Margin="77,184,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="DeleteButtonClicked" Content="Delete" HorizontalAlignment="Left" Margin="77,219,0,0" VerticalAlignment="Top" Width="75"/>
+        <ListView SelectionChanged="lstCats_SelectionChanged" Name="lstCats" HorizontalAlignment="Left" Height="234" Margin="257,32,0,0" VerticalAlignment="Top" Width="254" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="60" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Name" Width="110" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Age" Width="80" DisplayMemberBinding="{Binding Age}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Id:" HorizontalAlignment="Left" Margin="28,20,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblId" Content="..." HorizontalAlignment="Left" Margin="77,20,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblStatus" Content="..." HorizontalAlignment="Left" Margin="256,270,0,0" VerticalAlignment="Top"/>
+        <Label Content="Owners:" HorizontalAlignment="Left" Margin="653,20,0,0" VerticalAlignment="Top"/>
+        <ListView SelectionChanged="lstOwners_SelectionChanged"  x:Name="lstOwners" HorizontalAlignment="Left" Height="166" Margin="568,57,0,0" VerticalAlignment="Top" Width="230" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="60" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Full Name" Width="170" DisplayMemberBinding="{Binding FullName}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Cats:" HorizontalAlignment="Left" Margin="351,0,0,0" VerticalAlignment="Top"/>
+        <Button Click="btAddOwner_Click" x:Name="btAddOwner" Content="Add Owner" HorizontalAlignment="Left" Margin="560,246,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Full Name:" HorizontalAlignment="Left" Margin="568,278,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbFullName" HorizontalAlignment="Left" Height="23" Margin="653,281,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163"/>
+        <Button Click="btUpdateOwner_Click" x:Name="btUpdateOwner" Content="Update Owner" HorizontalAlignment="Left" Margin="648,246,0,0" VerticalAlignment="Top" Width="87"/>
+        <Button Click="btDeleteOwner_Click" x:Name="btDeleteOwner" Content="Delete Owner" HorizontalAlignment="Left" Margin="746,246,0,0" VerticalAlignment="Top" Width="87"/>
+
+    </Grid>
+</Window>
