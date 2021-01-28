@@ -1,0 +1,10 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\bin\Debug\Day03TempConv.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\bin\Debug\Day03TempConv.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\bin\Debug\Day03TempConv.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.Form1.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day03TempConv\obj\Debug\Day03TempConv.pdb
