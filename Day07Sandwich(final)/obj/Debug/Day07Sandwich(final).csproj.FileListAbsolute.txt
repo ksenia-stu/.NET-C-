@@ -1,0 +1,17 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\bin\Debug\Day07Sandwich(final).exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\bin\Debug\Day07Sandwich(final).exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\bin\Debug\Day07Sandwich(final).pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final).csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\CustomDialog.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final)_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final)_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\CustomDialog.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final).g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich_final_.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final).csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final).exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day07Sandwich(final)\obj\Debug\Day07Sandwich(final).pdb

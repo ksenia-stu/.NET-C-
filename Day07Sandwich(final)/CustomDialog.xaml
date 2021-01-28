@@ -1,0 +1,33 @@
+﻿<Window x:Class="Day07Sandwich_final_.CustomDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day07Sandwich_final_"
+        mc:Ignorable="d"
+        Title="CustomDialog" Height="369" Width="637" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Label Content="Bread:" HorizontalAlignment="Left" Margin="124,45,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="comboBread" HorizontalAlignment="Left" Margin="183,45,0,0" VerticalAlignment="Top" Width="184">
+            <ComboBoxItem IsSelected="True">White</ComboBoxItem>
+            <ComboBoxItem>Italian</ComboBoxItem>
+            <ComboBoxItem>Whole wheat</ComboBoxItem>
+        </ComboBox>
+        <GroupBox Header="Vegetables" HorizontalAlignment="Left" Height="55" Margin="121,80,0,0" VerticalAlignment="Top" Width="360">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                <CheckBox Name="cbVegLettuce" Content="Lettuce" Width="100" Margin="10,0,0,0"/>
+                <CheckBox Name="cbVegTomatoes" Content="Tomatoes" Width="100"/>
+                <CheckBox Name="cbVegCucubmers" Content="Cucumbers" Width="100"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Meat" HorizontalAlignment="Left" Height="59" Margin="124,142,0,0" VerticalAlignment="Top" Width="360">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                <RadioButton Name="rbMeatChicken" Content="Chicken" Width="100" Margin="10,0,0,0" IsChecked="True"/>
+                <RadioButton Name="rbMeatTurkey" Content="Turkey" Width="100"/>
+                <RadioButton Name="rbMeatTofu" Content="Tofu" Width="100"/>
+            </StackPanel>
+        </GroupBox>
+        <Button IsCancel="True" Content="Cancel" HorizontalAlignment="Left" Margin="183,235,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="SaveButtonClicked" IsDefault="True" Content="Save" HorizontalAlignment="Left" Margin="292,235,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>
