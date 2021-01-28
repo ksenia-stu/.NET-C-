@@ -1,0 +1,45 @@
+﻿<Window x:Class="Day08BigTodo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day08BigTodo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="375" Width="685" >
+    <DockPanel>
+        <Menu DockPanel.Dock ="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Export to CSV..." Click="FileExportButtonClicked"/>
+                <Separator/>
+                <MenuItem Header="Exit" Click="FileExitButtonClicked"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock  Name="statusBar" Text="{Binding ElementName=lstCars, Path=Items.Count, UpdateSourceTrigger=PropertyChanged, StringFormat='You have {0} car(s) currently'}"/>
+            </StatusBarItem>
+        </StatusBar>
+        <Grid DockPanel.Dock="Right" Width="161">
+            <Button Click="CreateUpdateButtonClicked" Content="Add" Height="30" VerticalAlignment="Top" Width="75" Margin="-10,25,10,0"/>
+            <Label Content="Sort by" HorizontalAlignment="Left" Margin="33,84,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,0.077"/>
+            <RadioButton Checked="SortByTask" GroupName="sorting" Content="Task" HorizontalAlignment="Left" Margin="33,115,0,0" VerticalAlignment="Top"/>
+            <RadioButton Checked="SortByDueDate" GroupName="sorting" Content="Due Date" HorizontalAlignment="Left" Margin="33,138,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <ListView MouseDoubleClick="lstTodos_MouseDoubleClick"  ContextMenuOpening= "lstTodos_ContextMenuOpening" Name="lstTodos" HorizontalAlignment="Left" Height="220" Margin="38,30,0,0" VerticalAlignment="Top" Width="440" SelectionMode="Single">
+            <ListView.ContextMenu>
+                <ContextMenu Name="contMenu" StaysOpen="true" >
+                    <MenuItem Header="Delete" Name="DeleteTodo" Click="DeleteTodo_Click" />
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="70" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Task" Width="130" DisplayMemberBinding="{Binding Task}"/>
+                    <GridViewColumn Header="Due Date" Width="120" DisplayMemberBinding="{Binding DueDate}"/>
+                    <GridViewColumn Header="Status" Width="120" DisplayMemberBinding="{Binding Status}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+    </DockPanel>
+</Window>
