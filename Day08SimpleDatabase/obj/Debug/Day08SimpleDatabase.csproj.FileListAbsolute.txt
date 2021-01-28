@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\bin\Debug\Day08SimpleDatabase.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\bin\Debug\Day08SimpleDatabase.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\bin\Debug\Day08SimpleDatabase.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\obj\Debug\Day08SimpleDatabase.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\obj\Debug\Day08SimpleDatabase.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\obj\Debug\Day08SimpleDatabase.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08SimpleDatabase\obj\Debug\Day08SimpleDatabase.pdb
