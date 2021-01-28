@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\obj\Debug\VirtualNewMetods.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\obj\Debug\VirtualNewMetods.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\bin\Debug\VirtualNewMetods.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\bin\Debug\VirtualNewMetods.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\bin\Debug\VirtualNewMetods.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\obj\Debug\VirtualNewMetods.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\VirtualNewMetods\obj\Debug\VirtualNewMetods.pdb
