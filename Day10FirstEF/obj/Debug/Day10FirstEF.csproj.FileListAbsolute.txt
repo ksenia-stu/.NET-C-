@@ -1,0 +1,12 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\obj\Debug\Day10FirstEF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\Day10FirstEF.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\Day10FirstEF.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\Day10FirstEF.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\obj\Debug\Day10FirstEF.csproj.CopyComplete
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\obj\Debug\Day10FirstEF.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\obj\Debug\Day10FirstEF.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day10FirstEF\obj\Debug\Day10FirstEF.csprojAssemblyReference.cache
