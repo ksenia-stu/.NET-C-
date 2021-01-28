@@ -1,0 +1,15 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\bin\Debug\Day04TempConverter.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\bin\Debug\Day04TempConverter.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\bin\Debug\Day04TempConverter.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04TempConverter\obj\Debug\Day04TempConverter.pdb
