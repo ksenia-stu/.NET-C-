@@ -1,0 +1,5 @@
+Mazda;2.9;Gasoline
+Toyota;15.6;Electric
+Ford;15.2;Hybrid
+Renault;17.9;Other
+Nissan;6.4;Diesel
