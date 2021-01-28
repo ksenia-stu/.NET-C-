@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\bin\Debug\Day01Cone.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\bin\Debug\Day01Cone.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\bin\Debug\Day01Cone.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\obj\Debug\Day01Cone.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\obj\Debug\Day01Cone.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\obj\Debug\Day01Cone.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cone\obj\Debug\Day01Cone.pdb
