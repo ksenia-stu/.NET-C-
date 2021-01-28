@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\bin\Debug\Day01Cities.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\bin\Debug\Day01Cities.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\bin\Debug\Day01Cities.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\obj\Debug\Day01Cities.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\obj\Debug\Day01Cities.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\obj\Debug\Day01Cities.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Cities\obj\Debug\Day01Cities.pdb
