@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\bin\Debug\ConsoleDB.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\bin\Debug\ConsoleDB.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\bin\Debug\ConsoleDB.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\obj\Debug\ConsoleDB.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\obj\Debug\ConsoleDB.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\obj\Debug\ConsoleDB.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\ConsoleDB\obj\Debug\ConsoleDB.pdb
