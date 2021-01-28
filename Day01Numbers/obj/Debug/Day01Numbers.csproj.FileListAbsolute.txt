@@ -1,0 +1,6 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Numbers\bin\Debug\Day01Numbers.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Numbers\bin\Debug\Day01Numbers.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Numbers\bin\Debug\Day01Numbers.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Numbers\obj\Debug\Day01Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Numbers\obj\Debug\Day01Numbers.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01Numbers\obj\Debug\Day01Numbers.pdb
