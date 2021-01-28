@@ -1,0 +1,17 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\bin\Debug\BooksDb.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\bin\Debug\BooksDb.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\bin\Debug\BooksDb.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\BooksDb.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\AuthorsDialog.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\BooksDb\obj\Debug\AuthorsDialog.baml

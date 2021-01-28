@@ -1,0 +1,35 @@
+﻿<Window x:Class="BooksDb.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BooksDb"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="417.243" Width="795.431">
+    <Grid>
+        <ListView Name="lstBooks" HorizontalAlignment="Left" Height="259" Margin="42,53,0,0" VerticalAlignment="Top" Width="470">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Title" Width="100" DisplayMemberBinding="{Binding Title}"/>
+                    <GridViewColumn Header="ISBN" Width="110" DisplayMemberBinding="{Binding Isbn}"/>
+                    <GridViewColumn Header="Pub Date" Width="90" DisplayMemberBinding="{Binding PubDate}"/>
+                    <GridViewColumn Header="Authors" Width="175" DisplayMemberBinding="{Binding Authors}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Title:" HorizontalAlignment="Left" Margin="542,51,0,0" VerticalAlignment="Top"/>
+        <Label Content="ISBN:" HorizontalAlignment="Left" Margin="542,82,0,0" VerticalAlignment="Top"/>
+        <Label Content="Pub date:" HorizontalAlignment="Left" Margin="542,114,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cover:" HorizontalAlignment="Left" Margin="542,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="Authors:" HorizontalAlignment="Left" Margin="542,223,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblAuthors" Content="..." HorizontalAlignment="Left" Margin="523,254,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="tbTitle" HorizontalAlignment="Left" Height="23" Margin="583,53,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="154" />
+        <TextBox x:Name="tbIsbn" HorizontalAlignment="Left" Height="23" Margin="583,86,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="154"/>
+        <DatePicker Name="dpPubDate" HorizontalAlignment="Left" Margin="606,116,0,0" VerticalAlignment="Top" Width="131"/>
+        <Image x:Name="imgCover" Height="70" Width="70" Margin="631,153,86,163"/>
+        <Button Content="Choose authors" HorizontalAlignment="Left" Margin="606,280,0,0" VerticalAlignment="Top" Width="95"/>
+        <Button Click="AddBookButtonClicked" Content="Add book" HorizontalAlignment="Left" Margin="606,314,0,0" VerticalAlignment="Top" Width="95"/>
+        <Button Click="Button_Click" Content="Add cover" HorizontalAlignment="Left" Margin="526,176,0,0" VerticalAlignment="Top" Width="95"/>
+
+    </Grid>
+</Window>
