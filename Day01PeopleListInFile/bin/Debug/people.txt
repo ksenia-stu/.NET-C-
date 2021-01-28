@@ -1,0 +1,3 @@
+Safa;29;Montreal
+Fofa;34;Toronto
+Sigma;78;London

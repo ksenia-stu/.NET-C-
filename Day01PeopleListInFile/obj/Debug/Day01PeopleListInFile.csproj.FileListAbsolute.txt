@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\bin\Debug\Day01PeopleListInFile.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\bin\Debug\Day01PeopleListInFile.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\bin\Debug\Day01PeopleListInFile.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.pdb
