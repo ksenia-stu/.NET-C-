@@ -1,0 +1,17 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\AddEditDialog.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\bin\Debug\Day08CarDb.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\bin\Debug\Day08CarDb.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\bin\Debug\Day08CarDb.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\AddEditDialog.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day08CarDb\obj\Debug\Day08CarDb.pdb
