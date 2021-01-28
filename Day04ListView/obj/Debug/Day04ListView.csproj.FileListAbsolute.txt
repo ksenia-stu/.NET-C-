@@ -1,0 +1,15 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\bin\Debug\Day04ListView.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\bin\Debug\Day04ListView.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\bin\Debug\Day04ListView.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04ListView\obj\Debug\Day04ListView.pdb
