@@ -1,0 +1,4 @@
+Safa;below 18;cat,dog;System.Windows.Controls.ComboBoxItem: Europe;24.6835443037975
+Dafa;18-35;;System.Windows.Controls.ComboBoxItem: Europe;26.4556962025316
+Jose;36 and up;cat,dog,other;Australia;30.25
+Borya;below 18;;America;20

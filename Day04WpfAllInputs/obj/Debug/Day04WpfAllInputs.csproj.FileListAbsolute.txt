@@ -1,0 +1,15 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\bin\Debug\Day04WpfAllInputs.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\bin\Debug\Day04WpfAllInputs.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\bin\Debug\Day04WpfAllInputs.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04WpfAllInputs\obj\Debug\Day04WpfAllInputs.pdb
