@@ -1,0 +1,15 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\bin\Debug\Day04IceCreamSelector.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\bin\Debug\Day04IceCreamSelector.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\bin\Debug\Day04IceCreamSelector.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day04IceCreamSelector\obj\Debug\Day04IceCreamSelector.pdb

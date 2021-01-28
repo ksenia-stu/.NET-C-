@@ -1,0 +1,22 @@
+﻿<Window x:Class="Day04IceCreamSelector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day04IceCreamSelector"
+        mc:Ignorable="d"
+        Title="Scoop selector" Height="318" Width="474">
+    <Grid>
+        <Label Content="Flavours:" HorizontalAlignment="Left" Margin="39,23,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="lstFlavours" HorizontalAlignment="Left" Height="117" Margin="39,54,0,0" VerticalAlignment="Top" Width="94" SelectionMode="Single" AutomationProperties.ItemType="&lt;string&gt;">
+
+        </ListBox>
+        <Button Click="AddButtonClicked" Content="Add =>" HorizontalAlignment="Left" Margin="186,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Selected:" HorizontalAlignment="Left" Margin="320,23,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="lstSelected" HorizontalAlignment="Left" Height="117" Margin="303,54,0,0" VerticalAlignment="Top" Width="94" SelectionMode="Single" AutomationProperties.ItemType="&lt;string&gt;">
+        </ListBox>
+        <Button Click="DeleteButtonClicked" Content="Delete scoop" HorizontalAlignment="Left" Margin="316,198,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="ClearButtonClicked" Content="Clear all" HorizontalAlignment="Left" Margin="316,231,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
