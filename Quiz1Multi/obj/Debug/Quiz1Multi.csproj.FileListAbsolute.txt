@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\bin\Debug\Quiz1Multi.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\bin\Debug\Quiz1Multi.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\bin\Debug\Quiz1Multi.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\obj\Debug\Quiz1Multi.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\obj\Debug\Quiz1Multi.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\obj\Debug\Quiz1Multi.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Quiz1Multi\obj\Debug\Quiz1Multi.pdb

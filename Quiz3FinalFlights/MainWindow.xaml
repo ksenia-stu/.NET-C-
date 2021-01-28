@@ -1,0 +1,42 @@
+﻿<Window x:Class="Quiz3FinalFlights.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Quiz3FinalFlights"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="330" Width="668">
+    <DockPanel>
+        <Menu DockPanel.Dock ="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Save selected" Click="FileSaveSelectedButtonClicked"/>
+                <Separator/>
+                <MenuItem Header="Exit" Click="FileExitButtonClicked"/>
+            </MenuItem>
+            <MenuItem Header="Add" Click="AddButtonClicked">
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock  Name="statusBar" Text="{Binding ElementName=lstFlights, Path=Items.Count, UpdateSourceTrigger=PropertyChanged, StringFormat='Total flights: {0}'}"/>
+            </StatusBarItem>
+        </StatusBar>
+        <ListView MouseDoubleClick="lstFlights_MouseDoubleClick" ContextMenuOpening="lstFlights_ContextMenuOpening"  Name="lstFlights" HorizontalAlignment="Left" Height="220" Margin="38,30,0,0" VerticalAlignment="Top" Width="583" SelectionMode="Multiple">
+            <ListView.ContextMenu>
+                <ContextMenu Name="contMenu" StaysOpen="true" >
+                    <MenuItem Header="Delete" Name="DeleteFlight" Click="DeleteFlight_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="60" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Date" Width="120" DisplayMemberBinding="{Binding Date, StringFormat=d}"/>
+                    <GridViewColumn Header="From code" Width="90" DisplayMemberBinding="{Binding FromCode}"/>
+                    <GridViewColumn Header="To code" Width="90" DisplayMemberBinding="{Binding ToCode}"/>
+                    <GridViewColumn Header="Type" Width="130" DisplayMemberBinding="{Binding Type}"/>
+                    <GridViewColumn Header="Passengers" Width="90" DisplayMemberBinding="{Binding Passengers}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</Window>
