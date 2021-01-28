@@ -1,0 +1,15 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\bin\Debug\Day05Notepad.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\bin\Debug\Day05Notepad.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\bin\Debug\Day05Notepad.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05Notepad\obj\Debug\Day05Notepad.pdb

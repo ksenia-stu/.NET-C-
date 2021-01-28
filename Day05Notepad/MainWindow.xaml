@@ -1,0 +1,26 @@
+﻿<Window x:Class="Day05Notepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day05Notepad"
+        mc:Ignorable="d"
+        Title="Untitled (Modified)" Height="370" Width="542" Closing="Window_Closing">
+    <DockPanel>
+        <Menu DockPanel.Dock ="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Open..." Click="FileOpenButtonClicked"/>
+                <MenuItem Header="Save" Click="FileSaveButtonClicked"/>
+                <MenuItem Header="Save as..." Click="FileSaveAsButtonClicked"/>
+                <Separator/>
+                <MenuItem Header="Exit" Click="FileExitButtonClicked"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock  Name ="FilePath" Text="No file open"/>
+            </StatusBarItem>
+        </StatusBar>
+        <TextBox AcceptsReturn="True" Name="tbEditor" SelectionChanged="tbEditor_SelectionChanged" />
+    </DockPanel>
+</Window>
