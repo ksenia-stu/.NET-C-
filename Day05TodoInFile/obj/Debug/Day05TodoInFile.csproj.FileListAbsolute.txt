@@ -1,0 +1,15 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\App.g.cs
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile_MarkupCompile.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile_MarkupCompile.lref
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\bin\Debug\Day05TodoInFile.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\bin\Debug\Day05TodoInFile.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\bin\Debug\Day05TodoInFile.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.g.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day05TodoInFile\obj\Debug\Day05TodoInFile.pdb
