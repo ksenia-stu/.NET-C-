@@ -1,0 +1,7 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\bin\Debug\Day18Indexer.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\bin\Debug\Day18Indexer.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\bin\Debug\Day18Indexer.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\obj\Debug\Day18Indexer.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\obj\Debug\Day18Indexer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\obj\Debug\Day18Indexer.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\Day18Indexer\obj\Debug\Day18Indexer.pdb
