@@ -1,0 +1,10 @@
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\bin\Debug\AllInputs.exe.config
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\bin\Debug\AllInputs.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\bin\Debug\AllInputs.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.csprojAssemblyReference.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.Properties.Resources.resources
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.csproj.GenerateResource.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.exe
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.pdb
+C:\Users\user\Documents\2020-ipd23-dotnet\AllInputs\obj\Debug\AllInputs.AllInputs.resources
